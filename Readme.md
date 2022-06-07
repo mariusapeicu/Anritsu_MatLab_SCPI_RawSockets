@@ -1,4 +1,4 @@
-# Anritsu Devices - simple Python  example scripts
+# Anritsu Devices - simple Matlab example scripts
 
 ## 1.Overview
 The present scripts are MatLab based methods to command Anritsu devices.\
