@@ -1,4 +1,4 @@
-# Anritsu Devices - simple Matlab example scripts
+# Anritsu SCPI RawSockets MatLab SCPI Commands example  
 
 ## 1.Overview
 The present scripts are MatLab based methods to command Anritsu devices.\
